@@ -1,2 +1,2 @@
-# hello-world
-just another repository
+#PAYNOW PHP IMPLEMENTATION 
+Integrate paynow zimbabwe gateway 
